@@ -12,7 +12,7 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 - Use Open street map along with d3 to write the javascript file
 
 ## Preview
-
+![My Map](./static/map.png)
 
 ## Installation
 - Download files to your local computer
@@ -20,4 +20,5 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 
 ## References
 - 2023 edX Boot Camps LLC
-- YouTube 
+- YouTube
+- Stack Overflow
